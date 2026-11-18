@@ -13,8 +13,8 @@
 
 | | |
 | --- | --- |
-| 公网地址 | https://skinlens-ai-ymy200109040201.vercel.app |
-| 代码仓库 | https://github.com/Ymy200109040201/SkinLens_AI |
+| 公网地址 | https://skinlens-demo.vercel.app |
+| 代码仓库 | https://github.com/elda-young/SkinLens_AI |
 | 部署平台 | Vercel（生产分支 `main`，推送后自动部署） |
 | AI 提供方 | DeepSeek `deepseek-chat`（OpenAI 兼容协议，仅在服务端调用） |
 
